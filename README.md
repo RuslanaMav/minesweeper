@@ -1,1 +1,1 @@
-# minesweeper
+# https://ruslanamav.github.io/minesweeper/
